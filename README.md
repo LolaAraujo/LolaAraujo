@@ -8,16 +8,20 @@
   
   ### 🌐About me: 
   - 💻 Graduate in Computer Systems Technician
+    
   - 📝 I’m currently learning Cybersecurity, Data Science and AI
+    
   - 💬 Ask me about C++, Python, Cybersecurity and AI
+    
   - 📫 How to reach me: lola.cervantes1708@gmail.com
+    
   - 🎞️ Fun fact: I like to watch kdramas
 </div>
 
 <div>
   
   ### 📲Connect with me:
-  <a href="www.linkedin.com/in/lola-cervantes-araujo-6102832a4">
+  <a href="https://www.linkedin.com/in/lola-cervantes-araujo-6102832a4/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="45" height="45"/>
   </a>
   <a href="https://www.instagram.com/lola_cer6?igsh=MXdxMmg4cW5paXgyeA==">
